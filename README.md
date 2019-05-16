@@ -51,3 +51,17 @@ Output #7: 3
 Output #8: 9
 Output #9: 9
 Output #10: 7
+
+#### Install
+
+- Install `python 3.6`
+- Install `pip`
+- Run `./install.sh`
+
+#### Run
+
+- Run `./run.sh`
+
+#### Test
+
+- Run `./test.sh`
